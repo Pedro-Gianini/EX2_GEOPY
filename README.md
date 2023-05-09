@@ -3,7 +3,7 @@
 Bibliotecas usadas:
 shapely.geometry ; re ; shapely.geometry ; matplotlib.pyplot ; pandas ; contextily ; numpy
 
-Funções usadas:
+Funções aprendidas:
 re.split ; import Polygon ; .set_crs ; .to_file ; .plot(ax=ax) ; .savefig ; txt_path ; import LineString ; import MultiLineString
 index() ; read() ; .loc ; .head() ; cx.add_basemap ; min() ; max() ; mean()
 
