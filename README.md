@@ -1,4 +1,4 @@
-##Solução dos exercícios da segunda aula do curso GeoPY
+## Solução dos exercícios da segunda aula do curso GeoPY
 
 Bibliotecas usadas:
 shapely.geometry ; re ; shapely.geometry ; matplotlib.pyplot ; pandas ; contextily ; numpy
